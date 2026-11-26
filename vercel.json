@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/privacy-policy",
+      "destination": "/index.html"
+    }
+  ]
+}
