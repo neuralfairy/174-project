@@ -160,9 +160,7 @@ const Footer = () => {
               <p>&copy; 2025 DigitalLifeBank Solutions. All rights reserved.</p>
               <div className="flex space-x-4">
                 <a
-                  href="https://salescentri.com/trust/security-privacy"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="/privacy-policy"
                   className="hover:text-teal-400 transition-colors"
                 >
                   Privacy Policy
